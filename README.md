@@ -15,7 +15,7 @@ Entusiasta de:
 4. Segurança digital
 ---
 Conhecimentos em:
-- Python,Pandas, Numpy, MatplotLib, Seaborn.
+- Python, Pandas, Numpy, MatplotLib, Seaborn.
 - C#: Vscual Studio, Programação Orientada a Objetos - Windows Forms
 - HTML5, CSS3 e JavaScript
 - Banco de Dados SQL, T-SQL
