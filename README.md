@@ -1,6 +1,7 @@
 ## Hi there, 👋 Podem me chamar de Melk!
 ***
 ### Atualmente estou estudando no **Curso Jovem Programador** do SENAC/SC e cursos através da plataforma **Alura**
+#### Trabalho como Dev Full Stack Junior
 
 ⚡Interesses:
 1. Programação de sistemas
@@ -16,7 +17,7 @@ Entusiasta de:
 ---
 Conhecimentos em:
 - Python, Pandas, Numpy, MatplotLib, Seaborn.
-- C#: Vscual Studio, Programação Orientada a Objetos - Windows Forms
-- HTML5, CSS3 e JavaScript
-- Banco de Dados SQL, T-SQL
+- C#: Visual Studio, Programação Orientada a Objetos - Windows Forms
+- HTML5, CSS3
+- Banco de Dados SQL, SQL Server
 - PowerBI: Dashboards, DAX, M
