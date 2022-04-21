@@ -15,7 +15,7 @@ Entusiasta de:
 3. Aprendizado de Máquina
 4. Segurança digital
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkmuller&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkmuller&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 Conhecimentos em:
 - Python
