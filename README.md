@@ -15,9 +15,12 @@ Entusiasta de:
 3. Aprendizado de Máquina
 4. Segurança digital
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 Conhecimentos em:
-- Python, Pandas, Numpy, MatplotLib, Seaborn.
-- C#: Visual Studio, Programação Orientada a Objetos - Windows Forms
+- Python
+- PHP
+- C#
 - HTML5, CSS3
 - Banco de Dados SQL, SQL Server
-- PowerBI: Dashboards, DAX, M
+- PowerBI
