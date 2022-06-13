@@ -3,6 +3,12 @@
 ### Atualmente estou estudando no **Curso Jovem Programador** do SENAC/SC e cursos através da plataforma **Alura**
 #### Trabalho como Dev Full Stack Junior. Utilizando as tecnologias: PHP, HTML5, Bootstrap, JavaScript, Smarty, Elloquent, MySQL.
 
+<div align="center">
+  <a href="https://github.com/melmuller">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melkmuller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkmuller&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ⚡Interesses:
 1. Programação de sistemas
 2. Desenvolvimento Web 
@@ -14,8 +20,6 @@
 2. Inteligência Artificial
 3. Segurança digital
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melkmuller&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 Conhecimentos em:
 - Python
 - PHP
