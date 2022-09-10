@@ -1,7 +1,7 @@
 ## Hi there, 👋 Podem me chamar de Melk!
 ***
-### Atualmente estou estudando no **Curso Jovem Programador** do SENAC/SC e cursos através da plataforma **Alura**
-#### Trabalho como Dev Full Stack Junior. Utilizando as tecnologias: PHP, HTML5, Bootstrap, JavaScript, Smarty, Elloquent, MySQL.
+### Iniciei minha carreira na tecologia em 2021 no **Curso Jovem Programador** do SENAC/SC e cursos através da plataforma **Alura**
+#### Trabalho como Dev Full Stack Junior. Utilizando as tecnologias: PHP, Python, HTML5/CSS3, Bootstrap, JavaScript, Smarty, Eloquent, MySQL.
 
 <div align="center">
   <a href="https://github.com/melmuller">
